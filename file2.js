@@ -2,7 +2,7 @@ console.log("ysf change 1  ysfbranch ");
 console.log("said change 1  ysfbranch ");
 console.log("said change 2  saidbranch  ");
 
-console.log("push apres suppresion de dosiiser git")
+console.log("push apres suppresion de dosiiser git t")
 
 console.log("said new branch")
 console.log("said new branch")
