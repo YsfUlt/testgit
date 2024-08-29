@@ -6,7 +6,7 @@ console.log("change ysf 3  cree");
 
 
 
-const A = 1;
+const C = 1;
 const B = 2;
 
 console.log(A + B);
