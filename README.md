@@ -110,8 +110,7 @@ Page Profil : Gestion du profil utilisateur
     - Bouton "Shared" : filtrer les notes partagées et non partagées
     - Bouton "New Note": Envoyer les données des notes à la base de données
       
-### Page Note :
-### + **Page Note :**
++ **Page Note :**
     - Filtrage des notes par catégories
     - Bouton de déconnexion
     - Afficher une note : récupération des données de la note depuis la base de données
@@ -121,7 +120,7 @@ Page Profil : Gestion du profil utilisateur
     - Afficher les données de l'utilisateur avec qui la note a été partagée
     
     - Gérer les droits d'accès de l'utilisateur qui a reçu la note, gestion du permission de voir ou de modifier la note reçue
-### Page Profile :
++ **Page Profile :**
     - Afficher les données de l'utilisateur
     - Modifier les données de l'utilisateur
 
