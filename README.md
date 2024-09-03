@@ -17,15 +17,15 @@ Nous avons réparti les tâches de la manière suivante :
 Youssef a créé le prototypage et le maquettage, avec la participation de Said et Hicham pour des conseils sur les couleurs et l'emplacement des boutons.
 Frontend :
 + **Frontend :**
-- Hicham a travaillé sur le design de:
-       - Page d'acceuil
-       - page des notes.
- - Said a travaillé sur le design du :
-       - pages d'authentification
-        - tableau de gestion des notes partagées dans la page des notes.
+  - Hicham a travaillé sur le design de:
+      - Page d'acceuil
+      - page des notes.
+  - Said a travaillé sur le design du :
+      - pages d'authentification
+     - tableau de gestion des notes partagées dans la page des notes.
   - Youssef a conçu le design du:
-        - cartes de notifications
-        - page de réception des notes.
+      - cartes de notifications
+      - page de réception des notes.
   - icons notification (lien cliquable)
       - carte notification  
         - Button accepter 
