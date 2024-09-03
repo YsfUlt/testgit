@@ -26,18 +26,21 @@ Frontend :
   - Youssef a conçu le design du:
       - cartes de notifications
       - page de réception des notes.
-  - icons notification (lien cliquable)
-      - carte notification  
-        - Button accepter 
 
 + **Backend :**
-Said a travaillé sur le backend pour l'authentification, la page profil, et la gestion des utilisateurs pour les notes partagées.
-Hicham a développé le backend de la page d'accueil.
-Youssef a géré les notifications et développé le backend pour la page de réception des notes, avec la gestion des droits d'accès.
-Page des notes :
-Hicham a travaillé sur les boutons de mise à jour et de suppression des notes.
-Youssef s'est chargé du bouton de partage des notes.
-Said a travaillé sur l'affichage du tableau de gestion des notes partagées.
+  - Said a travaillé sur le backend:
+      - d'authentification,
+      - la page profil
+      - tableau de gestion des utilisateurs pour les notes partagées.
+  - Hicham a développé le backend de :
+      - page d'accueil.
+  - Youssef a travaillé sur le backend :
+      - de gestion des notifications
+      - du page de réception des notes, avec la gestion des droits d'accès.
+  - Page des notes :
+      - Hicham a travaillé sur le backend du boutons update et Delete note.
+      - Youssef a travaillé sur le backend du bouton Share notes.
+      - Said a travaillé sur l'affichage du tableau de gestion des notes partagées.
 
 ## 📄 Frontend : 
 ### page inscription : 
