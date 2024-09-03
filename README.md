@@ -110,6 +110,9 @@ Page Profil : Gestion du profil utilisateur
     - Bouton "Shared" : filtrer les notes partagées et non partagées
     - Bouton "New Note": Envoyer les données des notes à la base de données
 ### Page Note :
+    - hi 
+
+    
     - Afficher une note : récupération des données de la note depuis la base de données
     - Mettre à jour une note : modifier les données de la note dans la base de données
     - Supprimer une note : supprimer les données de la note dans la base de données
