@@ -10,6 +10,32 @@ Page Note : Afficher et gérer une note
 Page de réception des notes : Recevoir les notes partagées par d'autres utilisateurs
 Page Profil : Gestion du profil utilisateur
 
++ **test :**
+  - Utilisation de Postman pour tester les Api restful 
+
+Nous avons réparti les tâches de la manière suivante :
+Youssef a créé le prototypage et le maquettage, avec la participation de Said et Hicham pour des conseils sur les couleurs et l'emplacement des boutons.
+Frontend :
++ **Frontend :**
+  - Hicham a travaillé sur le design de:
+        - Page d'acceuil
+        - page des notes.
+  - Said a travaillé sur le design du :
+        - pages d'authentification
+        - tableau de gestion des notes partagées dans la page des notes.
+  - Youssef a conçu le design du:
+        - cartes de notifications
+        - page de réception des notes.
+
++ **Backend :**
+Said a travaillé sur le backend pour l'authentification, la page profil, et la gestion des utilisateurs pour les notes partagées.
+Hicham a développé le backend de la page d'accueil.
+Youssef a géré les notifications et développé le backend pour la page de réception des notes, avec la gestion des droits d'accès.
+Page des notes :
+Hicham a travaillé sur les boutons de mise à jour et de suppression des notes.
+Youssef s'est chargé du bouton de partage des notes.
+Said a travaillé sur l'affichage du tableau de gestion des notes partagées.
+
 ## 📄 Frontend : 
 ### page inscription : 
 + **Formulaire:**
